@@ -53,7 +53,7 @@ public class HomeActivity extends AppCompatActivity {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Cesar Alvarez Salas | ITS | 1748577", Snackbar.LENGTH_LONG)
+                Snackbar.make(view, "Powered by Eduardo Leal", Snackbar.LENGTH_LONG)
                         .setAction("Info", null).show();
             }
         });
